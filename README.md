@@ -128,13 +128,6 @@ Removing these columns simplified the dataset without losing analytical informat
 * Removal of unusable records
 * Validation of critical variables
 
-#### Data Type Conversion
-
-Variables were converted to appropriate formats:
-
-* Years → Integer
-* Passenger counts → Numeric
-* Seat counts → Numeric
 
 #### Route Standardization
 
@@ -389,7 +382,7 @@ While long-term traffic growth supports discussions regarding future airport exp
 ```text
 PDS_Airport_Analysis/
 │
-├── Data/
+├── Datasets/
 │   ├── Raw_Data/
 │   └── Processed_Data/
 │
@@ -397,8 +390,8 @@ PDS_Airport_Analysis/
 │   ├── Lisbon_Airport_Integrated_Final_v03.ipynb
 │   └── lisbon_airport_integrated_final_v03.py
 │
-├── Images/
-│   └── Generated Figures
+├── Plots/
+│   └── Data Visualizations
 │
 ├── Report/
 │   └── Final Report
@@ -421,4 +414,3 @@ The project emphasizes:
 * Data visualization
 * Storytelling through data
 
-rather than predictive modeling or machine learning approaches.
