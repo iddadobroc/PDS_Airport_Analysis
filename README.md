@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-For more than 50 years, Portugal has debated whether Lisbon needs a new international airport.
+In the last years, Portugal has debated whether Lisbon needs a new international airport.
 
 The increasing number of passengers, flight operations, and recurring reports of congestion at Humberto Delgado Airport have often been used as evidence that Lisbon has reached its operational limits.
 
