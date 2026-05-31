@@ -1,5 +1,7 @@
 # ✈️ Does Lisbon Really Need a New Airport?
 
+[![Load Factor Heatmap](plots/Load%20Factor%20Heatmap%20-%20Top%2010%20Lisbon%20Routes%20by%20Passenger%20Volume.png)](plots/Load%20Factor%20Heatmap%20-%20Top%2010%20Lisbon%20Routes%20by%20Passenger%20Volume.png)
+
 ## Programming for Data Science Project (NOVA IMS)
 
 ### Authors
